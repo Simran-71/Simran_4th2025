@@ -1,4 +1,7 @@
-AIM : Design a program for a basic banking system that calculates the average account balance by dividing the total balance by the number       of account holders and verifies transaction IDs from an array. The program should demonstrate robust exception handling using             multiple try-catch blocks to manage two specific scenarios: an ArithmeticException for division by zero when there are no account         holders and an ArrayIndexOutOfBoundsException for accessing invalid indices in the transaction ID array.
+AIM : Design a program for a basic banking system that calculates the average account balance by dividing the total balance by the number 
+      of account holders and verifies transaction IDs from an array. The program should demonstrate robust exception handling using       
+      multiple try-catch blocks to manage two specific scenarios: an ArithmeticException for division by zero when there are no account   
+      holders and an ArrayIndexOutOfBoundsException for accessing invalid indices in the transaction ID array.
 
 PROGRAM CODE :
 
