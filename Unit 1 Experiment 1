@@ -2,7 +2,6 @@ AIM : Create a class Animal with a method makeSound() that outputs a generic sou
       output specific sounds for each animal. Demonstrate polymorphism by creating an Animal reference that can hold objects of both Dog and Cat, and call the overridden makeSound() 
       method at runtime.
 
-
 PROGRAM CODE : 
 
 // Base Class
@@ -52,7 +51,6 @@ public class PolymorphismDemo {
         }
     }
 }
-
 
 OUTPUT : 
 
